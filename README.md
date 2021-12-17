@@ -1,4 +1,8 @@
-# Airflow project
+# Airflow project!
+
+[Screen Shot 2021-12-17 at 12 29 41 AM](https://user-images.githubusercontent.com/70767722/146494188-75849e67-27ab-45ec-862d-42daa1c1c297.png)
+
+
 
 ## Project Objectives:
 
@@ -28,15 +32,19 @@ We'll work with 2 stocks symbols: `AAPL` and `TSLA`. The workflow can be seen in
 - Save both datasets into CSV files and load them into HDFS. Each symbol will have a separate task, Task3 (t3) and Task4 (t4), which run independently and in parallel.
 - Run your custom query on the downloaded dataset for both symbols, Task5 (t5). Before this step executes, all previous tasks must complete.
 
+![Screen Shot 2021-12-17 at 12 29 28 AM](https://user-images.githubusercontent.com/70767722/146494411-a9ae5a15-e154-4068-a2fa-032831e0cfd9.png)
+
 All the tasks should be successfully executed like this:
-[pic]
+
+![Screen Shot 2021-12-16 at 11 45 15 PM](https://user-images.githubusercontent.com/70767722/146494339-9b02a69b-eb34-4f14-86b6-0f051b5058ea.png)
 
 ## Steps to follow to execute all files:
 
 1, From Bash shell, execute `./start.sh` and it will build and start all the services.
 
 2, Wait untill all the services are completely executed and they should be healthy as screenshot below:
-[pic]
+
+![Screen Shot 2021-12-17 at 12 31 13 AM](https://user-images.githubusercontent.com/70767722/146494230-c63765d3-6bfb-4162-83a9-1ed378fba5b8.png)
 
 3, Go to `localhost:8080` to access the web ui.
 
