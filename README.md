@@ -59,3 +59,6 @@ Example of task 4's log file:
 
 7, Execute [`./reset.sh`](https://github.com/Andy-Pham-72/airflow-mini-project1/blob/master/reset.sh) to wipe out all the images.
 
+## Future works:
+- Integrate CeleryExecutor in the `airflow.cfg` and adjust `docker-compose.yml` configs accordingly.
+- The execution of the airflow service in the docker should be utilized since it still takes quiet longer time to be successfully implemented.
