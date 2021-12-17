@@ -28,7 +28,7 @@ with DAG(dag_id="marketvol",
 
     task_0 = BashOperator(
         task_id="task_0",
-        bash_command='''mkdir -p $AIRFLOW_HOME/tmp/data/''' + str(date.today()- timedelta(days=1)) #naming the folder with the current day
+        bash_command='''mkdir -p $AIRFLOW_HOME/tmp/data/''' + str(today_var) #naming the folder with the current day
     )
 
     task_1 = PythonOperator(
