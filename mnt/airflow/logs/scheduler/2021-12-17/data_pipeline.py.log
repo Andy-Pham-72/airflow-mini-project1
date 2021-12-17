@@ -1,0 +1,1064 @@
+[2021-12-17 04:39:16,361] {scheduler_job.py:182} INFO - Started process (PID=82) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:16,365] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:39:16,367] {logging_mixin.py:104} INFO - [2021-12-17 04:39:16,366] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:17,149] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:39:17,162] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:17,185] {logging_mixin.py:104} INFO - [2021-12-17 04:39:17,185] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:39:17,223] {logging_mixin.py:104} INFO - [2021-12-17 04:39:17,222] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:39:17,247] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.891 seconds
+[2021-12-17 04:39:18,496] {scheduler_job.py:182} INFO - Started process (PID=88) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:18,500] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:39:18,502] {logging_mixin.py:104} INFO - [2021-12-17 04:39:18,502] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:19,349] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:39:19,363] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:19,388] {logging_mixin.py:104} INFO - [2021-12-17 04:39:19,388] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:39:19,457] {logging_mixin.py:104} INFO - [2021-12-17 04:39:19,457] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:39:19,491] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 1.002 seconds
+[2021-12-17 04:39:20,693] {scheduler_job.py:182} INFO - Started process (PID=94) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:20,696] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:39:20,699] {logging_mixin.py:104} INFO - [2021-12-17 04:39:20,699] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:21,545] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:39:21,558] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:21,592] {logging_mixin.py:104} INFO - [2021-12-17 04:39:21,592] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:39:21,626] {logging_mixin.py:104} INFO - [2021-12-17 04:39:21,625] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:39:21,701] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 1.012 seconds
+[2021-12-17 04:39:22,936] {scheduler_job.py:182} INFO - Started process (PID=100) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:22,941] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:39:22,944] {logging_mixin.py:104} INFO - [2021-12-17 04:39:22,943] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:23,749] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:39:23,763] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:23,790] {logging_mixin.py:104} INFO - [2021-12-17 04:39:23,790] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:39:23,833] {logging_mixin.py:104} INFO - [2021-12-17 04:39:23,833] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:39:23,874] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.944 seconds
+[2021-12-17 04:39:25,036] {scheduler_job.py:182} INFO - Started process (PID=106) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:25,040] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:39:25,042] {logging_mixin.py:104} INFO - [2021-12-17 04:39:25,042] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:25,952] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:39:25,971] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:25,996] {logging_mixin.py:104} INFO - [2021-12-17 04:39:25,996] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:39:26,034] {logging_mixin.py:104} INFO - [2021-12-17 04:39:26,034] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:39:26,064] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 1.033 seconds
+[2021-12-17 04:39:26,976] {scheduler_job.py:182} INFO - Started process (PID=118) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:26,982] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:39:26,988] {logging_mixin.py:104} INFO - [2021-12-17 04:39:26,988] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:27,890] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:39:27,916] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:27,949] {logging_mixin.py:104} INFO - [2021-12-17 04:39:27,949] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:39:27,996] {logging_mixin.py:104} INFO - [2021-12-17 04:39:27,996] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:39:28,024] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 1.056 seconds
+[2021-12-17 04:39:29,376] {scheduler_job.py:182} INFO - Started process (PID=130) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:29,384] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:39:29,390] {logging_mixin.py:104} INFO - [2021-12-17 04:39:29,389] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:31,057] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:39:31,086] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:31,117] {logging_mixin.py:104} INFO - [2021-12-17 04:39:31,117] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:39:31,190] {logging_mixin.py:104} INFO - [2021-12-17 04:39:31,188] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:39:31,243] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 1.879 seconds
+[2021-12-17 04:39:32,502] {scheduler_job.py:182} INFO - Started process (PID=156) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:32,510] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:39:32,516] {logging_mixin.py:104} INFO - [2021-12-17 04:39:32,515] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:33,751] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:39:33,765] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:33,794] {logging_mixin.py:104} INFO - [2021-12-17 04:39:33,794] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:39:33,844] {logging_mixin.py:104} INFO - [2021-12-17 04:39:33,843] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:39:33,902] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 1.414 seconds
+[2021-12-17 04:39:35,374] {scheduler_job.py:182} INFO - Started process (PID=162) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:35,384] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:39:35,394] {logging_mixin.py:104} INFO - [2021-12-17 04:39:35,393] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:36,753] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:39:36,769] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:36,829] {logging_mixin.py:104} INFO - [2021-12-17 04:39:36,829] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:39:36,905] {logging_mixin.py:104} INFO - [2021-12-17 04:39:36,905] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:39:36,961] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 1.596 seconds
+[2021-12-17 04:39:38,322] {scheduler_job.py:182} INFO - Started process (PID=174) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:38,327] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:39:38,330] {logging_mixin.py:104} INFO - [2021-12-17 04:39:38,330] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:39,370] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:39:39,385] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:39,408] {logging_mixin.py:104} INFO - [2021-12-17 04:39:39,407] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:39:39,449] {logging_mixin.py:104} INFO - [2021-12-17 04:39:39,449] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:39:39,471] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 1.158 seconds
+[2021-12-17 04:39:40,744] {scheduler_job.py:182} INFO - Started process (PID=180) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:40,749] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:39:40,754] {logging_mixin.py:104} INFO - [2021-12-17 04:39:40,753] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:41,977] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:39:42,004] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:42,042] {logging_mixin.py:104} INFO - [2021-12-17 04:39:42,041] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:39:42,115] {logging_mixin.py:104} INFO - [2021-12-17 04:39:42,115] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:39:42,161] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 1.424 seconds
+[2021-12-17 04:39:43,412] {scheduler_job.py:182} INFO - Started process (PID=186) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:43,418] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:39:43,422] {logging_mixin.py:104} INFO - [2021-12-17 04:39:43,422] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:44,427] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:39:44,450] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:44,492] {logging_mixin.py:104} INFO - [2021-12-17 04:39:44,491] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:39:44,552] {logging_mixin.py:104} INFO - [2021-12-17 04:39:44,552] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:39:44,600] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 1.194 seconds
+[2021-12-17 04:39:46,080] {scheduler_job.py:182} INFO - Started process (PID=192) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:46,085] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:39:46,088] {logging_mixin.py:104} INFO - [2021-12-17 04:39:46,088] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:47,395] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:39:47,413] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:47,469] {logging_mixin.py:104} INFO - [2021-12-17 04:39:47,468] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:39:47,531] {logging_mixin.py:104} INFO - [2021-12-17 04:39:47,531] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:39:47,583] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 1.515 seconds
+[2021-12-17 04:39:48,970] {scheduler_job.py:182} INFO - Started process (PID=204) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:48,975] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:39:48,979] {logging_mixin.py:104} INFO - [2021-12-17 04:39:48,979] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:50,006] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:39:50,023] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:50,059] {logging_mixin.py:104} INFO - [2021-12-17 04:39:50,058] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:39:50,117] {logging_mixin.py:104} INFO - [2021-12-17 04:39:50,117] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:39:50,178] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 1.215 seconds
+[2021-12-17 04:39:51,594] {scheduler_job.py:182} INFO - Started process (PID=210) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:51,600] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:39:51,603] {logging_mixin.py:104} INFO - [2021-12-17 04:39:51,602] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:52,423] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:39:52,438] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:52,481] {logging_mixin.py:104} INFO - [2021-12-17 04:39:52,481] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:39:52,517] {logging_mixin.py:104} INFO - [2021-12-17 04:39:52,517] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:39:52,598] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 1.010 seconds
+[2021-12-17 04:39:53,782] {scheduler_job.py:182} INFO - Started process (PID=216) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:53,785] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:39:53,787] {logging_mixin.py:104} INFO - [2021-12-17 04:39:53,787] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:54,511] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:39:54,523] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:54,542] {logging_mixin.py:104} INFO - [2021-12-17 04:39:54,542] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:39:54,578] {logging_mixin.py:104} INFO - [2021-12-17 04:39:54,578] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:39:54,600] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.822 seconds
+[2021-12-17 04:39:55,585] {scheduler_job.py:182} INFO - Started process (PID=222) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:55,588] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:39:55,590] {logging_mixin.py:104} INFO - [2021-12-17 04:39:55,590] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:56,367] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:39:56,380] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:56,399] {logging_mixin.py:104} INFO - [2021-12-17 04:39:56,398] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:39:56,439] {logging_mixin.py:104} INFO - [2021-12-17 04:39:56,438] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:39:56,465] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.885 seconds
+[2021-12-17 04:39:57,707] {scheduler_job.py:182} INFO - Started process (PID=235) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:57,710] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:39:57,712] {logging_mixin.py:104} INFO - [2021-12-17 04:39:57,712] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:58,425] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:39:58,438] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:58,465] {logging_mixin.py:104} INFO - [2021-12-17 04:39:58,464] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:39:58,505] {logging_mixin.py:104} INFO - [2021-12-17 04:39:58,505] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:39:58,536] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.835 seconds
+[2021-12-17 04:39:59,727] {scheduler_job.py:182} INFO - Started process (PID=247) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:39:59,730] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:39:59,732] {logging_mixin.py:104} INFO - [2021-12-17 04:39:59,732] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:00,480] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:00,495] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:00,514] {logging_mixin.py:104} INFO - [2021-12-17 04:40:00,514] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:00,548] {logging_mixin.py:104} INFO - [2021-12-17 04:40:00,548] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:00,569] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.847 seconds
+[2021-12-17 04:40:01,702] {scheduler_job.py:182} INFO - Started process (PID=253) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:01,706] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:01,709] {logging_mixin.py:104} INFO - [2021-12-17 04:40:01,708] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:02,476] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:02,490] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:02,511] {logging_mixin.py:104} INFO - [2021-12-17 04:40:02,511] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:02,549] {logging_mixin.py:104} INFO - [2021-12-17 04:40:02,549] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:02,569] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.871 seconds
+[2021-12-17 04:40:02,912] {scheduler_job.py:182} INFO - Started process (PID=259) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:02,916] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:02,918] {logging_mixin.py:104} INFO - [2021-12-17 04:40:02,918] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:03,771] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:03,786] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:03,810] {logging_mixin.py:104} INFO - [2021-12-17 04:40:03,809] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:03,846] {logging_mixin.py:104} INFO - [2021-12-17 04:40:03,845] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:03,871] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.964 seconds
+[2021-12-17 04:40:05,032] {scheduler_job.py:182} INFO - Started process (PID=265) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:05,035] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:05,037] {logging_mixin.py:104} INFO - [2021-12-17 04:40:05,037] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:05,784] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:05,797] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:05,820] {logging_mixin.py:104} INFO - [2021-12-17 04:40:05,820] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:05,862] {logging_mixin.py:104} INFO - [2021-12-17 04:40:05,862] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:05,887] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.859 seconds
+[2021-12-17 04:40:07,058] {scheduler_job.py:182} INFO - Started process (PID=278) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:07,061] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:07,063] {logging_mixin.py:104} INFO - [2021-12-17 04:40:07,062] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:07,834] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:07,845] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:07,865] {logging_mixin.py:104} INFO - [2021-12-17 04:40:07,864] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:07,901] {logging_mixin.py:104} INFO - [2021-12-17 04:40:07,901] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:07,925] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.873 seconds
+[2021-12-17 04:40:09,190] {scheduler_job.py:182} INFO - Started process (PID=284) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:09,195] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:09,198] {logging_mixin.py:104} INFO - [2021-12-17 04:40:09,198] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:09,998] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:10,009] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:10,027] {logging_mixin.py:104} INFO - [2021-12-17 04:40:10,027] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:10,062] {logging_mixin.py:104} INFO - [2021-12-17 04:40:10,061] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:10,086] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.901 seconds
+[2021-12-17 04:40:11,298] {scheduler_job.py:182} INFO - Started process (PID=290) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:11,301] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:11,304] {logging_mixin.py:104} INFO - [2021-12-17 04:40:11,303] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:11,978] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:11,992] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:12,012] {logging_mixin.py:104} INFO - [2021-12-17 04:40:12,012] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:12,043] {logging_mixin.py:104} INFO - [2021-12-17 04:40:12,043] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:12,061] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.767 seconds
+[2021-12-17 04:40:13,177] {scheduler_job.py:182} INFO - Started process (PID=296) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:13,180] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:13,182] {logging_mixin.py:104} INFO - [2021-12-17 04:40:13,182] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:13,817] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:13,827] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:13,842] {logging_mixin.py:104} INFO - [2021-12-17 04:40:13,842] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:13,870] {logging_mixin.py:104} INFO - [2021-12-17 04:40:13,869] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:13,887] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.715 seconds
+[2021-12-17 04:40:15,140] {scheduler_job.py:182} INFO - Started process (PID=302) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:15,143] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:15,146] {logging_mixin.py:104} INFO - [2021-12-17 04:40:15,146] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:15,773] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:15,785] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:15,805] {logging_mixin.py:104} INFO - [2021-12-17 04:40:15,805] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:15,846] {logging_mixin.py:104} INFO - [2021-12-17 04:40:15,846] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:15,873] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.738 seconds
+[2021-12-17 04:40:16,999] {scheduler_job.py:182} INFO - Started process (PID=315) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:17,002] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:17,004] {logging_mixin.py:104} INFO - [2021-12-17 04:40:17,004] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:17,630] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:17,641] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:17,656] {logging_mixin.py:104} INFO - [2021-12-17 04:40:17,656] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:17,687] {logging_mixin.py:104} INFO - [2021-12-17 04:40:17,687] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:17,709] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.716 seconds
+[2021-12-17 04:40:18,889] {scheduler_job.py:182} INFO - Started process (PID=321) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:18,892] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:18,894] {logging_mixin.py:104} INFO - [2021-12-17 04:40:18,893] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:19,508] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:19,520] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:19,536] {logging_mixin.py:104} INFO - [2021-12-17 04:40:19,535] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:19,565] {logging_mixin.py:104} INFO - [2021-12-17 04:40:19,565] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:19,583] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.699 seconds
+[2021-12-17 04:40:20,873] {scheduler_job.py:182} INFO - Started process (PID=327) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:20,876] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:20,878] {logging_mixin.py:104} INFO - [2021-12-17 04:40:20,878] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:21,502] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:21,513] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:21,531] {logging_mixin.py:104} INFO - [2021-12-17 04:40:21,530] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:21,563] {logging_mixin.py:104} INFO - [2021-12-17 04:40:21,563] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:21,588] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.719 seconds
+[2021-12-17 04:40:22,773] {scheduler_job.py:182} INFO - Started process (PID=333) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:22,776] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:22,778] {logging_mixin.py:104} INFO - [2021-12-17 04:40:22,778] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:23,388] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:23,398] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:23,427] {logging_mixin.py:104} INFO - [2021-12-17 04:40:23,427] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:23,455] {logging_mixin.py:104} INFO - [2021-12-17 04:40:23,454] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:23,503] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.734 seconds
+[2021-12-17 04:40:24,657] {scheduler_job.py:182} INFO - Started process (PID=339) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:24,660] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:24,662] {logging_mixin.py:104} INFO - [2021-12-17 04:40:24,662] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:25,243] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:25,254] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:25,270] {logging_mixin.py:104} INFO - [2021-12-17 04:40:25,270] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:25,300] {logging_mixin.py:104} INFO - [2021-12-17 04:40:25,300] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:25,320] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.667 seconds
+[2021-12-17 04:40:26,517] {scheduler_job.py:182} INFO - Started process (PID=345) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:26,520] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:26,521] {logging_mixin.py:104} INFO - [2021-12-17 04:40:26,521] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:27,137] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:27,146] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:27,162] {logging_mixin.py:104} INFO - [2021-12-17 04:40:27,161] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:27,192] {logging_mixin.py:104} INFO - [2021-12-17 04:40:27,192] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:27,216] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.704 seconds
+[2021-12-17 04:40:28,399] {scheduler_job.py:182} INFO - Started process (PID=359) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:28,402] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:28,404] {logging_mixin.py:104} INFO - [2021-12-17 04:40:28,404] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:29,027] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:29,039] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:29,059] {logging_mixin.py:104} INFO - [2021-12-17 04:40:29,058] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:29,095] {logging_mixin.py:104} INFO - [2021-12-17 04:40:29,094] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:29,115] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.720 seconds
+[2021-12-17 04:40:30,291] {scheduler_job.py:182} INFO - Started process (PID=371) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:30,293] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:30,295] {logging_mixin.py:104} INFO - [2021-12-17 04:40:30,295] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:30,999] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:31,010] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:31,025] {logging_mixin.py:104} INFO - [2021-12-17 04:40:31,024] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:31,051] {logging_mixin.py:104} INFO - [2021-12-17 04:40:31,050] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:31,068] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.781 seconds
+[2021-12-17 04:40:32,282] {scheduler_job.py:182} INFO - Started process (PID=377) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:32,285] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:32,288] {logging_mixin.py:104} INFO - [2021-12-17 04:40:32,288] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:32,988] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:33,001] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:33,022] {logging_mixin.py:104} INFO - [2021-12-17 04:40:33,021] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:33,077] {logging_mixin.py:104} INFO - [2021-12-17 04:40:33,076] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:33,112] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.836 seconds
+[2021-12-17 04:40:34,300] {scheduler_job.py:182} INFO - Started process (PID=383) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:34,302] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:34,304] {logging_mixin.py:104} INFO - [2021-12-17 04:40:34,304] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:34,941] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:34,953] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:34,967] {logging_mixin.py:104} INFO - [2021-12-17 04:40:34,967] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:34,998] {logging_mixin.py:104} INFO - [2021-12-17 04:40:34,998] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:35,018] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.722 seconds
+[2021-12-17 04:40:36,212] {scheduler_job.py:182} INFO - Started process (PID=389) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:36,215] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:36,217] {logging_mixin.py:104} INFO - [2021-12-17 04:40:36,217] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:36,985] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:36,997] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:37,017] {logging_mixin.py:104} INFO - [2021-12-17 04:40:37,016] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:37,055] {logging_mixin.py:104} INFO - [2021-12-17 04:40:37,054] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:37,082] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.874 seconds
+[2021-12-17 04:40:38,280] {scheduler_job.py:182} INFO - Started process (PID=402) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:38,283] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:38,285] {logging_mixin.py:104} INFO - [2021-12-17 04:40:38,285] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:38,942] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:38,952] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:38,967] {logging_mixin.py:104} INFO - [2021-12-17 04:40:38,967] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:38,996] {logging_mixin.py:104} INFO - [2021-12-17 04:40:38,996] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:39,019] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.744 seconds
+[2021-12-17 04:40:40,154] {scheduler_job.py:182} INFO - Started process (PID=408) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:40,157] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:40,158] {logging_mixin.py:104} INFO - [2021-12-17 04:40:40,158] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:40,797] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:40,809] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:40,825] {logging_mixin.py:104} INFO - [2021-12-17 04:40:40,824] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:40,857] {logging_mixin.py:104} INFO - [2021-12-17 04:40:40,856] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:40,876] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.726 seconds
+[2021-12-17 04:40:42,031] {scheduler_job.py:182} INFO - Started process (PID=414) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:42,033] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:42,035] {logging_mixin.py:104} INFO - [2021-12-17 04:40:42,035] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:42,599] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:42,609] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:42,622] {logging_mixin.py:104} INFO - [2021-12-17 04:40:42,622] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:42,647] {logging_mixin.py:104} INFO - [2021-12-17 04:40:42,647] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:42,665] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.638 seconds
+[2021-12-17 04:40:43,892] {scheduler_job.py:182} INFO - Started process (PID=420) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:43,894] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:43,896] {logging_mixin.py:104} INFO - [2021-12-17 04:40:43,896] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:44,472] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:44,483] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:44,500] {logging_mixin.py:104} INFO - [2021-12-17 04:40:44,500] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:44,529] {logging_mixin.py:104} INFO - [2021-12-17 04:40:44,529] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:44,553] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.666 seconds
+[2021-12-17 04:40:45,692] {scheduler_job.py:182} INFO - Started process (PID=426) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:45,694] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:45,696] {logging_mixin.py:104} INFO - [2021-12-17 04:40:45,696] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:46,271] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:46,281] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:46,294] {logging_mixin.py:104} INFO - [2021-12-17 04:40:46,293] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:46,319] {logging_mixin.py:104} INFO - [2021-12-17 04:40:46,319] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:46,333] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.680 seconds
+[2021-12-17 04:40:47,428] {scheduler_job.py:182} INFO - Started process (PID=439) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:47,431] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:47,433] {logging_mixin.py:104} INFO - [2021-12-17 04:40:47,433] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:48,002] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:48,014] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:48,029] {logging_mixin.py:104} INFO - [2021-12-17 04:40:48,028] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:48,056] {logging_mixin.py:104} INFO - [2021-12-17 04:40:48,055] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:48,073] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.648 seconds
+[2021-12-17 04:40:49,275] {scheduler_job.py:182} INFO - Started process (PID=445) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:49,279] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:49,281] {logging_mixin.py:104} INFO - [2021-12-17 04:40:49,281] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:49,859] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:49,868] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:49,883] {logging_mixin.py:104} INFO - [2021-12-17 04:40:49,883] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:49,912] {logging_mixin.py:104} INFO - [2021-12-17 04:40:49,912] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:49,933] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.662 seconds
+[2021-12-17 04:40:50,174] {scheduler_job.py:182} INFO - Started process (PID=451) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:50,176] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:50,178] {logging_mixin.py:104} INFO - [2021-12-17 04:40:50,178] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:50,785] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:50,797] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:50,813] {logging_mixin.py:104} INFO - [2021-12-17 04:40:50,813] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:50,848] {logging_mixin.py:104} INFO - [2021-12-17 04:40:50,848] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:50,872] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.703 seconds
+[2021-12-17 04:40:52,060] {scheduler_job.py:182} INFO - Started process (PID=457) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:52,063] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:52,065] {logging_mixin.py:104} INFO - [2021-12-17 04:40:52,065] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:52,623] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:52,635] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:52,649] {logging_mixin.py:104} INFO - [2021-12-17 04:40:52,648] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:52,674] {logging_mixin.py:104} INFO - [2021-12-17 04:40:52,674] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:52,690] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.634 seconds
+[2021-12-17 04:40:53,276] {scheduler_job.py:182} INFO - Started process (PID=463) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:53,279] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:53,281] {logging_mixin.py:104} INFO - [2021-12-17 04:40:53,281] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:53,825] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:53,847] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:53,875] {logging_mixin.py:104} INFO - [2021-12-17 04:40:53,874] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:53,899] {logging_mixin.py:104} INFO - [2021-12-17 04:40:53,898] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:53,945] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.673 seconds
+[2021-12-17 04:40:55,123] {scheduler_job.py:182} INFO - Started process (PID=469) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:55,126] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:55,128] {logging_mixin.py:104} INFO - [2021-12-17 04:40:55,127] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:55,663] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:55,672] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:55,687] {logging_mixin.py:104} INFO - [2021-12-17 04:40:55,687] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:55,714] {logging_mixin.py:104} INFO - [2021-12-17 04:40:55,713] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:55,734] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.615 seconds
+[2021-12-17 04:40:56,927] {scheduler_job.py:182} INFO - Started process (PID=475) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:56,929] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:56,931] {logging_mixin.py:104} INFO - [2021-12-17 04:40:56,931] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:57,510] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:57,521] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:57,534] {logging_mixin.py:104} INFO - [2021-12-17 04:40:57,534] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:57,558] {logging_mixin.py:104} INFO - [2021-12-17 04:40:57,558] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:57,573] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.650 seconds
+[2021-12-17 04:40:58,694] {scheduler_job.py:182} INFO - Started process (PID=487) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:58,697] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:40:58,699] {logging_mixin.py:104} INFO - [2021-12-17 04:40:58,699] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:59,265] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:40:59,275] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:40:59,288] {logging_mixin.py:104} INFO - [2021-12-17 04:40:59,288] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:40:59,312] {logging_mixin.py:104} INFO - [2021-12-17 04:40:59,312] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:40:59,326] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.636 seconds
+[2021-12-17 04:41:00,534] {scheduler_job.py:182} INFO - Started process (PID=499) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:00,538] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:00,540] {logging_mixin.py:104} INFO - [2021-12-17 04:41:00,540] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:01,154] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:01,164] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:01,180] {logging_mixin.py:104} INFO - [2021-12-17 04:41:01,179] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:01,207] {logging_mixin.py:104} INFO - [2021-12-17 04:41:01,207] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:01,227] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.697 seconds
+[2021-12-17 04:41:02,414] {scheduler_job.py:182} INFO - Started process (PID=505) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:02,417] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:02,419] {logging_mixin.py:104} INFO - [2021-12-17 04:41:02,418] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:03,038] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:03,050] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:03,067] {logging_mixin.py:104} INFO - [2021-12-17 04:41:03,066] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:03,097] {logging_mixin.py:104} INFO - [2021-12-17 04:41:03,097] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:03,116] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.706 seconds
+[2021-12-17 04:41:04,307] {scheduler_job.py:182} INFO - Started process (PID=511) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:04,310] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:04,311] {logging_mixin.py:104} INFO - [2021-12-17 04:41:04,311] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:04,917] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:04,927] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:04,945] {logging_mixin.py:104} INFO - [2021-12-17 04:41:04,944] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:04,974] {logging_mixin.py:104} INFO - [2021-12-17 04:41:04,974] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:04,997] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.694 seconds
+[2021-12-17 04:41:06,059] {scheduler_job.py:182} INFO - Started process (PID=517) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:06,062] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:06,064] {logging_mixin.py:104} INFO - [2021-12-17 04:41:06,064] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:06,687] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:06,696] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:06,725] {logging_mixin.py:104} INFO - [2021-12-17 04:41:06,725] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:06,755] {logging_mixin.py:104} INFO - [2021-12-17 04:41:06,755] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:06,781] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.726 seconds
+[2021-12-17 04:41:07,972] {scheduler_job.py:182} INFO - Started process (PID=529) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:07,976] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:07,978] {logging_mixin.py:104} INFO - [2021-12-17 04:41:07,978] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:08,582] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:08,591] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:08,603] {logging_mixin.py:104} INFO - [2021-12-17 04:41:08,603] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:08,626] {logging_mixin.py:104} INFO - [2021-12-17 04:41:08,626] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:08,642] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.675 seconds
+[2021-12-17 04:41:09,742] {scheduler_job.py:182} INFO - Started process (PID=535) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:09,745] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:09,748] {logging_mixin.py:104} INFO - [2021-12-17 04:41:09,747] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:10,396] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:10,411] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:10,425] {logging_mixin.py:104} INFO - [2021-12-17 04:41:10,425] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:10,451] {logging_mixin.py:104} INFO - [2021-12-17 04:41:10,451] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:10,467] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.731 seconds
+[2021-12-17 04:41:11,700] {scheduler_job.py:182} INFO - Started process (PID=541) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:11,703] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:11,705] {logging_mixin.py:104} INFO - [2021-12-17 04:41:11,705] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:12,253] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:12,262] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:12,277] {logging_mixin.py:104} INFO - [2021-12-17 04:41:12,276] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:12,313] {logging_mixin.py:104} INFO - [2021-12-17 04:41:12,313] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:12,339] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.644 seconds
+[2021-12-17 04:41:13,478] {scheduler_job.py:182} INFO - Started process (PID=547) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:13,482] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:13,484] {logging_mixin.py:104} INFO - [2021-12-17 04:41:13,484] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:14,049] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:14,062] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:14,079] {logging_mixin.py:104} INFO - [2021-12-17 04:41:14,078] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:14,106] {logging_mixin.py:104} INFO - [2021-12-17 04:41:14,106] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:14,123] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.652 seconds
+[2021-12-17 04:41:15,259] {scheduler_job.py:182} INFO - Started process (PID=553) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:15,262] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:15,265] {logging_mixin.py:104} INFO - [2021-12-17 04:41:15,265] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:15,892] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:15,908] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:15,929] {logging_mixin.py:104} INFO - [2021-12-17 04:41:15,929] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:15,953] {logging_mixin.py:104} INFO - [2021-12-17 04:41:15,953] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:15,968] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.748 seconds
+[2021-12-17 04:41:17,185] {scheduler_job.py:182} INFO - Started process (PID=559) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:17,188] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:17,190] {logging_mixin.py:104} INFO - [2021-12-17 04:41:17,190] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:17,767] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:17,776] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:17,790] {logging_mixin.py:104} INFO - [2021-12-17 04:41:17,790] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:17,817] {logging_mixin.py:104} INFO - [2021-12-17 04:41:17,817] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:17,836] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.656 seconds
+[2021-12-17 04:41:18,975] {scheduler_job.py:182} INFO - Started process (PID=573) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:18,978] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:18,980] {logging_mixin.py:104} INFO - [2021-12-17 04:41:18,979] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:19,504] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:19,513] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:19,525] {logging_mixin.py:104} INFO - [2021-12-17 04:41:19,525] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:19,548] {logging_mixin.py:104} INFO - [2021-12-17 04:41:19,548] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:19,564] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.593 seconds
+[2021-12-17 04:41:20,661] {scheduler_job.py:182} INFO - Started process (PID=579) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:20,663] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:20,665] {logging_mixin.py:104} INFO - [2021-12-17 04:41:20,665] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:21,238] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:21,250] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:21,263] {logging_mixin.py:104} INFO - [2021-12-17 04:41:21,262] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:21,287] {logging_mixin.py:104} INFO - [2021-12-17 04:41:21,287] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:21,300] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.643 seconds
+[2021-12-17 04:41:21,914] {scheduler_job.py:182} INFO - Started process (PID=585) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:21,917] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:21,919] {logging_mixin.py:104} INFO - [2021-12-17 04:41:21,918] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:22,454] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:22,463] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:22,478] {logging_mixin.py:104} INFO - [2021-12-17 04:41:22,477] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:22,505] {logging_mixin.py:104} INFO - [2021-12-17 04:41:22,505] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:22,524] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.614 seconds
+[2021-12-17 04:41:23,698] {scheduler_job.py:182} INFO - Started process (PID=591) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:23,700] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:23,702] {logging_mixin.py:104} INFO - [2021-12-17 04:41:23,702] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:24,268] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:24,277] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:24,302] {logging_mixin.py:104} INFO - [2021-12-17 04:41:24,301] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:24,325] {logging_mixin.py:104} INFO - [2021-12-17 04:41:24,325] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:24,381] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.687 seconds
+[2021-12-17 04:41:25,484] {scheduler_job.py:182} INFO - Started process (PID=597) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:25,488] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:25,490] {logging_mixin.py:104} INFO - [2021-12-17 04:41:25,490] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:26,092] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:26,101] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:26,116] {logging_mixin.py:104} INFO - [2021-12-17 04:41:26,115] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:26,142] {logging_mixin.py:104} INFO - [2021-12-17 04:41:26,142] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:26,160] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.680 seconds
+[2021-12-17 04:41:26,499] {scheduler_job.py:182} INFO - Started process (PID=603) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:26,501] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:26,504] {logging_mixin.py:104} INFO - [2021-12-17 04:41:26,504] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:27,065] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:27,074] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:27,089] {logging_mixin.py:104} INFO - [2021-12-17 04:41:27,088] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:27,111] {logging_mixin.py:104} INFO - [2021-12-17 04:41:27,111] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:27,127] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.632 seconds
+[2021-12-17 04:41:28,363] {scheduler_job.py:182} INFO - Started process (PID=615) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:28,366] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:28,367] {logging_mixin.py:104} INFO - [2021-12-17 04:41:28,367] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:28,916] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:28,925] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:28,940] {logging_mixin.py:104} INFO - [2021-12-17 04:41:28,940] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:28,967] {logging_mixin.py:104} INFO - [2021-12-17 04:41:28,967] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:28,988] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.629 seconds
+[2021-12-17 04:41:30,161] {scheduler_job.py:182} INFO - Started process (PID=622) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:30,164] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:30,166] {logging_mixin.py:104} INFO - [2021-12-17 04:41:30,165] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:30,836] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:30,847] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:30,865] {logging_mixin.py:104} INFO - [2021-12-17 04:41:30,865] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:30,899] {logging_mixin.py:104} INFO - [2021-12-17 04:41:30,899] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:30,913] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.756 seconds
+[2021-12-17 04:41:32,028] {scheduler_job.py:182} INFO - Started process (PID=633) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:32,031] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:32,032] {logging_mixin.py:104} INFO - [2021-12-17 04:41:32,032] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:32,656] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:32,665] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:32,679] {logging_mixin.py:104} INFO - [2021-12-17 04:41:32,679] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:32,704] {logging_mixin.py:104} INFO - [2021-12-17 04:41:32,704] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:32,719] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.695 seconds
+[2021-12-17 04:41:33,980] {scheduler_job.py:182} INFO - Started process (PID=639) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:33,982] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:33,984] {logging_mixin.py:104} INFO - [2021-12-17 04:41:33,984] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:34,535] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:34,545] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:34,559] {logging_mixin.py:104} INFO - [2021-12-17 04:41:34,559] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:34,589] {logging_mixin.py:104} INFO - [2021-12-17 04:41:34,588] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:34,608] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.632 seconds
+[2021-12-17 04:41:35,756] {scheduler_job.py:182} INFO - Started process (PID=645) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:35,760] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:35,763] {logging_mixin.py:104} INFO - [2021-12-17 04:41:35,762] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:36,381] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:36,391] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:36,406] {logging_mixin.py:104} INFO - [2021-12-17 04:41:36,405] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:36,432] {logging_mixin.py:104} INFO - [2021-12-17 04:41:36,432] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:36,450] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.698 seconds
+[2021-12-17 04:41:37,641] {scheduler_job.py:182} INFO - Started process (PID=651) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:37,644] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:37,645] {logging_mixin.py:104} INFO - [2021-12-17 04:41:37,645] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:38,289] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:38,299] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:38,318] {logging_mixin.py:104} INFO - [2021-12-17 04:41:38,318] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:38,345] {logging_mixin.py:104} INFO - [2021-12-17 04:41:38,345] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:38,365] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.728 seconds
+[2021-12-17 04:41:39,619] {scheduler_job.py:182} INFO - Started process (PID=666) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:39,622] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:39,625] {logging_mixin.py:104} INFO - [2021-12-17 04:41:39,625] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:40,166] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:40,175] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:40,190] {logging_mixin.py:104} INFO - [2021-12-17 04:41:40,190] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:40,216] {logging_mixin.py:104} INFO - [2021-12-17 04:41:40,216] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:40,235] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.620 seconds
+[2021-12-17 04:41:41,409] {scheduler_job.py:182} INFO - Started process (PID=672) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:41,411] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:41,413] {logging_mixin.py:104} INFO - [2021-12-17 04:41:41,413] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:41,939] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:41,948] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:41,960] {logging_mixin.py:104} INFO - [2021-12-17 04:41:41,960] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:41,983] {logging_mixin.py:104} INFO - [2021-12-17 04:41:41,983] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:41,998] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.593 seconds
+[2021-12-17 04:41:43,093] {scheduler_job.py:182} INFO - Started process (PID=678) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:43,096] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:43,098] {logging_mixin.py:104} INFO - [2021-12-17 04:41:43,097] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:43,642] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:43,651] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:43,663] {logging_mixin.py:104} INFO - [2021-12-17 04:41:43,663] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:43,686] {logging_mixin.py:104} INFO - [2021-12-17 04:41:43,685] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:43,701] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.612 seconds
+[2021-12-17 04:41:44,934] {scheduler_job.py:182} INFO - Started process (PID=684) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:44,936] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:44,938] {logging_mixin.py:104} INFO - [2021-12-17 04:41:44,938] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:45,468] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:45,477] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:45,493] {logging_mixin.py:104} INFO - [2021-12-17 04:41:45,492] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:45,520] {logging_mixin.py:104} INFO - [2021-12-17 04:41:45,520] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:45,538] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.608 seconds
+[2021-12-17 04:41:46,701] {scheduler_job.py:182} INFO - Started process (PID=690) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:46,703] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:46,705] {logging_mixin.py:104} INFO - [2021-12-17 04:41:46,705] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:47,261] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:47,271] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:47,287] {logging_mixin.py:104} INFO - [2021-12-17 04:41:47,287] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:47,310] {logging_mixin.py:104} INFO - [2021-12-17 04:41:47,310] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:47,324] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.627 seconds
+[2021-12-17 04:41:48,474] {scheduler_job.py:182} INFO - Started process (PID=703) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:48,477] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:48,478] {logging_mixin.py:104} INFO - [2021-12-17 04:41:48,478] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:49,011] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:49,023] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:49,035] {logging_mixin.py:104} INFO - [2021-12-17 04:41:49,035] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:49,060] {logging_mixin.py:104} INFO - [2021-12-17 04:41:49,060] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:49,076] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.605 seconds
+[2021-12-17 04:41:50,311] {scheduler_job.py:182} INFO - Started process (PID=709) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:50,314] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:50,315] {logging_mixin.py:104} INFO - [2021-12-17 04:41:50,315] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:50,931] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:50,941] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:50,957] {logging_mixin.py:104} INFO - [2021-12-17 04:41:50,956] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:50,985] {logging_mixin.py:104} INFO - [2021-12-17 04:41:50,984] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:51,004] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.697 seconds
+[2021-12-17 04:41:52,202] {scheduler_job.py:182} INFO - Started process (PID=715) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:52,204] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:52,207] {logging_mixin.py:104} INFO - [2021-12-17 04:41:52,207] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:52,717] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:52,726] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:52,739] {logging_mixin.py:104} INFO - [2021-12-17 04:41:52,738] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:52,761] {logging_mixin.py:104} INFO - [2021-12-17 04:41:52,761] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:52,774] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.575 seconds
+[2021-12-17 04:41:53,568] {scheduler_job.py:182} INFO - Started process (PID=721) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:53,570] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:53,572] {logging_mixin.py:104} INFO - [2021-12-17 04:41:53,572] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:54,099] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:54,108] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:54,121] {logging_mixin.py:104} INFO - [2021-12-17 04:41:54,121] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:54,143] {logging_mixin.py:104} INFO - [2021-12-17 04:41:54,143] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:54,157] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.594 seconds
+[2021-12-17 04:41:54,309] {scheduler_job.py:182} INFO - Started process (PID=727) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:54,312] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:54,314] {logging_mixin.py:104} INFO - [2021-12-17 04:41:54,313] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:54,825] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:54,835] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:54,858] {logging_mixin.py:104} INFO - [2021-12-17 04:41:54,858] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:54,881] {logging_mixin.py:104} INFO - [2021-12-17 04:41:54,880] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:54,937] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.631 seconds
+[2021-12-17 04:41:56,153] {scheduler_job.py:182} INFO - Started process (PID=733) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:56,155] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:56,157] {logging_mixin.py:104} INFO - [2021-12-17 04:41:56,157] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:56,674] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:56,683] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:56,698] {logging_mixin.py:104} INFO - [2021-12-17 04:41:56,697] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:56,724] {logging_mixin.py:104} INFO - [2021-12-17 04:41:56,724] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:56,743] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.594 seconds
+[2021-12-17 04:41:57,832] {scheduler_job.py:182} INFO - Started process (PID=739) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:57,835] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:57,836] {logging_mixin.py:104} INFO - [2021-12-17 04:41:57,836] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:58,382] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:41:58,390] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:58,402] {logging_mixin.py:104} INFO - [2021-12-17 04:41:58,402] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:41:58,425] {logging_mixin.py:104} INFO - [2021-12-17 04:41:58,424] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:41:58,438] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.609 seconds
+[2021-12-17 04:41:59,600] {scheduler_job.py:182} INFO - Started process (PID=752) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:41:59,603] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:41:59,605] {logging_mixin.py:104} INFO - [2021-12-17 04:41:59,604] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:00,118] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:00,133] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:00,148] {logging_mixin.py:104} INFO - [2021-12-17 04:42:00,148] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:00,171] {logging_mixin.py:104} INFO - [2021-12-17 04:42:00,170] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:00,185] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.588 seconds
+[2021-12-17 04:42:01,339] {scheduler_job.py:182} INFO - Started process (PID=764) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:01,341] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:01,343] {logging_mixin.py:104} INFO - [2021-12-17 04:42:01,343] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:01,898] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:01,907] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:01,921] {logging_mixin.py:104} INFO - [2021-12-17 04:42:01,920] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:01,948] {logging_mixin.py:104} INFO - [2021-12-17 04:42:01,948] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:01,968] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.632 seconds
+[2021-12-17 04:42:03,138] {scheduler_job.py:182} INFO - Started process (PID=770) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:03,141] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:03,143] {logging_mixin.py:104} INFO - [2021-12-17 04:42:03,142] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:03,763] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:03,771] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:03,784] {logging_mixin.py:104} INFO - [2021-12-17 04:42:03,784] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:03,811] {logging_mixin.py:104} INFO - [2021-12-17 04:42:03,810] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:03,828] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.694 seconds
+[2021-12-17 04:42:05,012] {scheduler_job.py:182} INFO - Started process (PID=776) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:05,015] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:05,016] {logging_mixin.py:104} INFO - [2021-12-17 04:42:05,016] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:05,584] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:05,595] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:05,615] {logging_mixin.py:104} INFO - [2021-12-17 04:42:05,614] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:05,640] {logging_mixin.py:104} INFO - [2021-12-17 04:42:05,640] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:05,659] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.650 seconds
+[2021-12-17 04:42:06,943] {scheduler_job.py:182} INFO - Started process (PID=782) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:06,946] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:06,947] {logging_mixin.py:104} INFO - [2021-12-17 04:42:06,947] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:07,609] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:07,619] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:07,635] {logging_mixin.py:104} INFO - [2021-12-17 04:42:07,634] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:07,678] {logging_mixin.py:104} INFO - [2021-12-17 04:42:07,677] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:07,704] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.765 seconds
+[2021-12-17 04:42:08,836] {scheduler_job.py:182} INFO - Started process (PID=794) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:08,838] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:08,840] {logging_mixin.py:104} INFO - [2021-12-17 04:42:08,839] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:09,353] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:09,361] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:09,375] {logging_mixin.py:104} INFO - [2021-12-17 04:42:09,374] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:09,397] {logging_mixin.py:104} INFO - [2021-12-17 04:42:09,397] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:09,410] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.578 seconds
+[2021-12-17 04:42:10,517] {scheduler_job.py:182} INFO - Started process (PID=800) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:10,520] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:10,521] {logging_mixin.py:104} INFO - [2021-12-17 04:42:10,521] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:11,119] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:11,129] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:11,142] {logging_mixin.py:104} INFO - [2021-12-17 04:42:11,141] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:11,164] {logging_mixin.py:104} INFO - [2021-12-17 04:42:11,164] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:11,178] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.665 seconds
+[2021-12-17 04:42:12,351] {scheduler_job.py:182} INFO - Started process (PID=806) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:12,353] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:12,355] {logging_mixin.py:104} INFO - [2021-12-17 04:42:12,355] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:12,865] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:12,873] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:12,888] {logging_mixin.py:104} INFO - [2021-12-17 04:42:12,888] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:12,915] {logging_mixin.py:104} INFO - [2021-12-17 04:42:12,915] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:12,934] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.586 seconds
+[2021-12-17 04:42:14,043] {scheduler_job.py:182} INFO - Started process (PID=812) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:14,046] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:14,047] {logging_mixin.py:104} INFO - [2021-12-17 04:42:14,047] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:14,554] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:14,563] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:14,575] {logging_mixin.py:104} INFO - [2021-12-17 04:42:14,574] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:14,599] {logging_mixin.py:104} INFO - [2021-12-17 04:42:14,599] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:14,615] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.575 seconds
+[2021-12-17 04:42:15,712] {scheduler_job.py:182} INFO - Started process (PID=818) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:15,715] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:15,717] {logging_mixin.py:104} INFO - [2021-12-17 04:42:15,717] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:16,274] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:16,283] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:16,296] {logging_mixin.py:104} INFO - [2021-12-17 04:42:16,296] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:16,319] {logging_mixin.py:104} INFO - [2021-12-17 04:42:16,319] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:16,333] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.659 seconds
+[2021-12-17 04:42:17,518] {scheduler_job.py:182} INFO - Started process (PID=824) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:17,520] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:17,522] {logging_mixin.py:104} INFO - [2021-12-17 04:42:17,521] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:18,054] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:18,073] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:18,089] {logging_mixin.py:104} INFO - [2021-12-17 04:42:18,089] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:18,117] {logging_mixin.py:104} INFO - [2021-12-17 04:42:18,117] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:18,137] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.623 seconds
+[2021-12-17 04:42:19,290] {scheduler_job.py:182} INFO - Started process (PID=836) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:19,292] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:19,293] {logging_mixin.py:104} INFO - [2021-12-17 04:42:19,293] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:19,803] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:19,812] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:19,824] {logging_mixin.py:104} INFO - [2021-12-17 04:42:19,823] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:19,847] {logging_mixin.py:104} INFO - [2021-12-17 04:42:19,847] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:19,860] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.575 seconds
+[2021-12-17 04:42:20,958] {scheduler_job.py:182} INFO - Started process (PID=842) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:20,961] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:20,963] {logging_mixin.py:104} INFO - [2021-12-17 04:42:20,963] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:21,511] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:21,520] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:21,532] {logging_mixin.py:104} INFO - [2021-12-17 04:42:21,531] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:21,555] {logging_mixin.py:104} INFO - [2021-12-17 04:42:21,555] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:21,570] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.617 seconds
+[2021-12-17 04:42:22,796] {scheduler_job.py:182} INFO - Started process (PID=848) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:22,799] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:22,801] {logging_mixin.py:104} INFO - [2021-12-17 04:42:22,800] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:23,326] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:23,335] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:23,349] {logging_mixin.py:104} INFO - [2021-12-17 04:42:23,348] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:23,375] {logging_mixin.py:104} INFO - [2021-12-17 04:42:23,375] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:23,393] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.600 seconds
+[2021-12-17 04:42:24,497] {scheduler_job.py:182} INFO - Started process (PID=854) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:24,499] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:24,500] {logging_mixin.py:104} INFO - [2021-12-17 04:42:24,500] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:24,987] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:24,996] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:25,018] {logging_mixin.py:104} INFO - [2021-12-17 04:42:25,018] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:25,039] {logging_mixin.py:104} INFO - [2021-12-17 04:42:25,039] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:25,083] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.589 seconds
+[2021-12-17 04:42:26,192] {scheduler_job.py:182} INFO - Started process (PID=860) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:26,194] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:26,196] {logging_mixin.py:104} INFO - [2021-12-17 04:42:26,196] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:26,700] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:26,708] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:26,722] {logging_mixin.py:104} INFO - [2021-12-17 04:42:26,722] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:26,746] {logging_mixin.py:104} INFO - [2021-12-17 04:42:26,746] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:26,762] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.575 seconds
+[2021-12-17 04:42:27,917] {scheduler_job.py:182} INFO - Started process (PID=866) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:27,920] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:27,922] {logging_mixin.py:104} INFO - [2021-12-17 04:42:27,922] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:28,459] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:28,469] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:28,485] {logging_mixin.py:104} INFO - [2021-12-17 04:42:28,485] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:28,512] {logging_mixin.py:104} INFO - [2021-12-17 04:42:28,512] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:28,536] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.623 seconds
+[2021-12-17 04:42:29,694] {scheduler_job.py:182} INFO - Started process (PID=878) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:29,696] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:29,697] {logging_mixin.py:104} INFO - [2021-12-17 04:42:29,697] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:30,190] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:30,199] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:30,210] {logging_mixin.py:104} INFO - [2021-12-17 04:42:30,209] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:30,231] {logging_mixin.py:104} INFO - [2021-12-17 04:42:30,231] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:30,243] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.553 seconds
+[2021-12-17 04:42:31,366] {scheduler_job.py:182} INFO - Started process (PID=890) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:31,370] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:31,374] {logging_mixin.py:104} INFO - [2021-12-17 04:42:31,374] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:31,916] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:31,925] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:31,938] {logging_mixin.py:104} INFO - [2021-12-17 04:42:31,937] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:31,959] {logging_mixin.py:104} INFO - [2021-12-17 04:42:31,959] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:31,972] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.611 seconds
+[2021-12-17 04:42:33,194] {scheduler_job.py:182} INFO - Started process (PID=896) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:33,196] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:33,198] {logging_mixin.py:104} INFO - [2021-12-17 04:42:33,198] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:33,738] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:33,748] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:33,761] {logging_mixin.py:104} INFO - [2021-12-17 04:42:33,761] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:33,795] {logging_mixin.py:104} INFO - [2021-12-17 04:42:33,795] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:33,815] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.626 seconds
+[2021-12-17 04:42:34,978] {scheduler_job.py:182} INFO - Started process (PID=902) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:34,980] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:34,982] {logging_mixin.py:104} INFO - [2021-12-17 04:42:34,982] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:35,515] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:35,524] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:35,536] {logging_mixin.py:104} INFO - [2021-12-17 04:42:35,536] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:35,559] {logging_mixin.py:104} INFO - [2021-12-17 04:42:35,558] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:35,574] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.599 seconds
+[2021-12-17 04:42:36,744] {scheduler_job.py:182} INFO - Started process (PID=908) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:36,746] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:36,748] {logging_mixin.py:104} INFO - [2021-12-17 04:42:36,748] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:37,296] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:37,306] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:37,320] {logging_mixin.py:104} INFO - [2021-12-17 04:42:37,320] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:37,346] {logging_mixin.py:104} INFO - [2021-12-17 04:42:37,346] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:37,362] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.622 seconds
+[2021-12-17 04:42:38,595] {scheduler_job.py:182} INFO - Started process (PID=920) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:38,599] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:38,601] {logging_mixin.py:104} INFO - [2021-12-17 04:42:38,601] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:39,156] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:39,165] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:39,179] {logging_mixin.py:104} INFO - [2021-12-17 04:42:39,179] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:39,205] {logging_mixin.py:104} INFO - [2021-12-17 04:42:39,205] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:39,223] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.632 seconds
+[2021-12-17 04:42:40,188] {scheduler_job.py:182} INFO - Started process (PID=926) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:40,191] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:40,193] {logging_mixin.py:104} INFO - [2021-12-17 04:42:40,193] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:40,771] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:40,782] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:40,799] {logging_mixin.py:104} INFO - [2021-12-17 04:42:40,798] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:40,828] {logging_mixin.py:104} INFO - [2021-12-17 04:42:40,828] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:40,846] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.661 seconds
+[2021-12-17 04:42:41,981] {scheduler_job.py:182} INFO - Started process (PID=932) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:41,984] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:41,986] {logging_mixin.py:104} INFO - [2021-12-17 04:42:41,985] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:42,505] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:42,514] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:42,525] {logging_mixin.py:104} INFO - [2021-12-17 04:42:42,525] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:42,552] {logging_mixin.py:104} INFO - [2021-12-17 04:42:42,552] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:42,568] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.591 seconds
+[2021-12-17 04:42:43,732] {scheduler_job.py:182} INFO - Started process (PID=938) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:43,734] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:43,736] {logging_mixin.py:104} INFO - [2021-12-17 04:42:43,736] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:44,231] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:44,239] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:44,252] {logging_mixin.py:104} INFO - [2021-12-17 04:42:44,252] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:44,276] {logging_mixin.py:104} INFO - [2021-12-17 04:42:44,276] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:44,294] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.565 seconds
+[2021-12-17 04:42:45,415] {scheduler_job.py:182} INFO - Started process (PID=944) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:45,417] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:45,419] {logging_mixin.py:104} INFO - [2021-12-17 04:42:45,419] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:45,910] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:45,920] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:45,931] {logging_mixin.py:104} INFO - [2021-12-17 04:42:45,931] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:45,953] {logging_mixin.py:104} INFO - [2021-12-17 04:42:45,953] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:45,966] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.590 seconds
+[2021-12-17 04:42:47,059] {scheduler_job.py:182} INFO - Started process (PID=950) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:47,062] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:47,063] {logging_mixin.py:104} INFO - [2021-12-17 04:42:47,063] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:47,570] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:47,579] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:47,592] {logging_mixin.py:104} INFO - [2021-12-17 04:42:47,592] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:47,614] {logging_mixin.py:104} INFO - [2021-12-17 04:42:47,614] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:47,626] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.571 seconds
+[2021-12-17 04:42:48,805] {scheduler_job.py:182} INFO - Started process (PID=962) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:48,808] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:48,809] {logging_mixin.py:104} INFO - [2021-12-17 04:42:48,809] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:49,316] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:49,326] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:49,338] {logging_mixin.py:104} INFO - [2021-12-17 04:42:49,338] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:49,364] {logging_mixin.py:104} INFO - [2021-12-17 04:42:49,363] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:49,382] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.580 seconds
+[2021-12-17 04:42:50,472] {scheduler_job.py:182} INFO - Started process (PID=968) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:50,474] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:50,475] {logging_mixin.py:104} INFO - [2021-12-17 04:42:50,475] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:51,008] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:51,017] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:51,028] {logging_mixin.py:104} INFO - [2021-12-17 04:42:51,028] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:51,051] {logging_mixin.py:104} INFO - [2021-12-17 04:42:51,051] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:51,072] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.604 seconds
+[2021-12-17 04:42:52,251] {scheduler_job.py:182} INFO - Started process (PID=974) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:52,253] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:52,254] {logging_mixin.py:104} INFO - [2021-12-17 04:42:52,254] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:52,751] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:52,759] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:52,772] {logging_mixin.py:104} INFO - [2021-12-17 04:42:52,771] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:52,799] {logging_mixin.py:104} INFO - [2021-12-17 04:42:52,799] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:52,814] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.567 seconds
+[2021-12-17 04:42:53,992] {scheduler_job.py:182} INFO - Started process (PID=980) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:53,995] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:53,996] {logging_mixin.py:104} INFO - [2021-12-17 04:42:53,996] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:54,498] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:54,506] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:54,520] {logging_mixin.py:104} INFO - [2021-12-17 04:42:54,519] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:54,545] {logging_mixin.py:104} INFO - [2021-12-17 04:42:54,545] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:54,565] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.577 seconds
+[2021-12-17 04:42:55,675] {scheduler_job.py:182} INFO - Started process (PID=986) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:55,677] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:55,679] {logging_mixin.py:104} INFO - [2021-12-17 04:42:55,679] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:56,214] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:56,224] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:56,252] {logging_mixin.py:104} INFO - [2021-12-17 04:42:56,251] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:56,284] {logging_mixin.py:104} INFO - [2021-12-17 04:42:56,283] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:56,343] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.672 seconds
+[2021-12-17 04:42:57,470] {scheduler_job.py:182} INFO - Started process (PID=992) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:57,473] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:57,476] {logging_mixin.py:104} INFO - [2021-12-17 04:42:57,475] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:57,986] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:57,996] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:58,010] {logging_mixin.py:104} INFO - [2021-12-17 04:42:58,010] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:58,048] {logging_mixin.py:104} INFO - [2021-12-17 04:42:58,048] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:58,067] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.603 seconds
+[2021-12-17 04:42:59,307] {scheduler_job.py:182} INFO - Started process (PID=1005) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:59,309] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:42:59,311] {logging_mixin.py:104} INFO - [2021-12-17 04:42:59,311] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:59,822] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:42:59,832] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:42:59,845] {logging_mixin.py:104} INFO - [2021-12-17 04:42:59,845] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:42:59,869] {logging_mixin.py:104} INFO - [2021-12-17 04:42:59,869] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:42:59,887] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.583 seconds
+[2021-12-17 04:43:00,975] {scheduler_job.py:182} INFO - Started process (PID=1011) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:00,977] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:43:00,979] {logging_mixin.py:104} INFO - [2021-12-17 04:43:00,979] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:01,522] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:43:01,531] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:01,543] {logging_mixin.py:104} INFO - [2021-12-17 04:43:01,543] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:43:01,565] {logging_mixin.py:104} INFO - [2021-12-17 04:43:01,565] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:43:01,579] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.607 seconds
+[2021-12-17 04:43:02,741] {scheduler_job.py:182} INFO - Started process (PID=1023) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:02,744] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:43:02,745] {logging_mixin.py:104} INFO - [2021-12-17 04:43:02,745] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:03,316] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:43:03,326] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:03,341] {logging_mixin.py:104} INFO - [2021-12-17 04:43:03,341] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:43:03,366] {logging_mixin.py:104} INFO - [2021-12-17 04:43:03,366] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:43:03,382] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.644 seconds
+[2021-12-17 04:43:04,582] {scheduler_job.py:182} INFO - Started process (PID=1029) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:04,584] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:43:04,586] {logging_mixin.py:104} INFO - [2021-12-17 04:43:04,585] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:05,174] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:43:05,183] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:05,196] {logging_mixin.py:104} INFO - [2021-12-17 04:43:05,196] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:43:05,220] {logging_mixin.py:104} INFO - [2021-12-17 04:43:05,220] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:43:05,239] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.661 seconds
+[2021-12-17 04:43:06,390] {scheduler_job.py:182} INFO - Started process (PID=1035) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:06,394] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:43:06,398] {logging_mixin.py:104} INFO - [2021-12-17 04:43:06,398] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:07,065] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:43:07,075] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:07,090] {logging_mixin.py:104} INFO - [2021-12-17 04:43:07,089] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:43:07,116] {logging_mixin.py:104} INFO - [2021-12-17 04:43:07,116] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:43:07,134] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.751 seconds
+[2021-12-17 04:43:08,256] {scheduler_job.py:182} INFO - Started process (PID=1041) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:08,259] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:43:08,261] {logging_mixin.py:104} INFO - [2021-12-17 04:43:08,261] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:08,932] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:43:08,942] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:08,957] {logging_mixin.py:104} INFO - [2021-12-17 04:43:08,957] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:43:08,985] {logging_mixin.py:104} INFO - [2021-12-17 04:43:08,985] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:43:09,005] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.752 seconds
+[2021-12-17 04:43:10,214] {scheduler_job.py:182} INFO - Started process (PID=1053) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:10,217] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:43:10,219] {logging_mixin.py:104} INFO - [2021-12-17 04:43:10,218] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:10,777] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:43:10,787] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:10,805] {logging_mixin.py:104} INFO - [2021-12-17 04:43:10,805] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:43:10,840] {logging_mixin.py:104} INFO - [2021-12-17 04:43:10,840] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:43:10,869] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.659 seconds
+[2021-12-17 04:43:11,469] {scheduler_job.py:182} INFO - Started process (PID=1059) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:11,471] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:43:11,473] {logging_mixin.py:104} INFO - [2021-12-17 04:43:11,473] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:12,002] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:43:12,011] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:12,023] {logging_mixin.py:104} INFO - [2021-12-17 04:43:12,023] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:43:12,048] {logging_mixin.py:104} INFO - [2021-12-17 04:43:12,047] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:43:12,065] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.599 seconds
+[2021-12-17 04:43:13,252] {scheduler_job.py:182} INFO - Started process (PID=1065) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:13,255] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:43:13,256] {logging_mixin.py:104} INFO - [2021-12-17 04:43:13,256] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:13,783] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:43:13,792] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:13,804] {logging_mixin.py:104} INFO - [2021-12-17 04:43:13,804] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:43:13,826] {logging_mixin.py:104} INFO - [2021-12-17 04:43:13,826] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:43:13,840] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.592 seconds
+[2021-12-17 04:43:14,215] {scheduler_job.py:182} INFO - Started process (PID=1071) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:14,217] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:43:14,219] {logging_mixin.py:104} INFO - [2021-12-17 04:43:14,219] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:14,779] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:43:14,790] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:14,805] {logging_mixin.py:104} INFO - [2021-12-17 04:43:14,805] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:43:14,836] {logging_mixin.py:104} INFO - [2021-12-17 04:43:14,836] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:43:14,854] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.643 seconds
+[2021-12-17 04:43:16,035] {scheduler_job.py:182} INFO - Started process (PID=1077) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:16,038] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:43:16,040] {logging_mixin.py:104} INFO - [2021-12-17 04:43:16,039] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:16,665] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:43:16,674] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:16,689] {logging_mixin.py:104} INFO - [2021-12-17 04:43:16,689] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:43:16,716] {logging_mixin.py:104} INFO - [2021-12-17 04:43:16,716] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:43:16,735] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.705 seconds
+[2021-12-17 04:43:17,936] {scheduler_job.py:182} INFO - Started process (PID=1083) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:17,941] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:43:17,945] {logging_mixin.py:104} INFO - [2021-12-17 04:43:17,944] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:18,533] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:43:18,544] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:18,560] {logging_mixin.py:104} INFO - [2021-12-17 04:43:18,560] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:43:18,591] {logging_mixin.py:104} INFO - [2021-12-17 04:43:18,591] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:43:18,606] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.679 seconds
+[2021-12-17 04:43:19,709] {scheduler_job.py:182} INFO - Started process (PID=1096) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:19,711] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:43:19,713] {logging_mixin.py:104} INFO - [2021-12-17 04:43:19,713] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:20,242] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:43:20,251] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:20,263] {logging_mixin.py:104} INFO - [2021-12-17 04:43:20,263] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:43:20,286] {logging_mixin.py:104} INFO - [2021-12-17 04:43:20,285] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:43:20,299] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.594 seconds
+[2021-12-17 04:43:21,455] {scheduler_job.py:182} INFO - Started process (PID=1102) to work on /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:21,457] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/data_pipeline.py for tasks to queue
+[2021-12-17 04:43:21,460] {logging_mixin.py:104} INFO - [2021-12-17 04:43:21,460] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:22,005] {logging_mixin.py:104} WARNING - /usr/local/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-12-17 04:43:22,014] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['marketvol']) retrieved from /opt/airflow/dags/data_pipeline.py
+[2021-12-17 04:43:22,028] {logging_mixin.py:104} INFO - [2021-12-17 04:43:22,028] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-12-17 04:43:22,054] {logging_mixin.py:104} INFO - [2021-12-17 04:43:22,054] {dag.py:2273} INFO - Setting next_dagrun for marketvol to 2021-12-20 00:06:00+00:00
+[2021-12-17 04:43:22,072] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/data_pipeline.py took 0.621 seconds

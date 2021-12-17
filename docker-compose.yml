@@ -60,6 +60,7 @@ services:
     volumes:
       - ./mnt/airflow/airflow.cfg:/opt/airflow/airflow.cfg
       - ./mnt/airflow/dags:/opt/airflow/dags
+      - ./mnt/airflow/:/opt/airflow
     ports:
       - 8080:8080
     healthcheck:
