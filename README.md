@@ -43,7 +43,7 @@ Example of task 4's log file:
 
 ## Steps to follow to execute all files:
 
-1, From Bash shell, execute `./start.sh` and it will build and start all the services.
+1, From Bash shell, execute [`./start.sh`](https://github.com/Andy-Pham-72/airflow-mini-project1/blob/master/start.sh) and it will build and start all the services.
 
 2, Wait untill all the services are completely executed and they should be healthy as screenshot below:
 
@@ -55,7 +55,7 @@ Example of task 4's log file:
 
 5, Now we can wait for all the tasks running as the schedule or manually trigger the tasks to see the output.
 
-6, After completing all the tasks, we can execute `./stop.sh` to stop the services.
+6, After completing all the tasks, we can execute [`./stop.sh`](https://github.com/Andy-Pham-72/airflow-mini-project1/blob/master/stop.sh) to stop the services.
 
-7, Execute `./stop.sh` to wipe out all the images.
+7, Execute [`./reset.sh`](https://github.com/Andy-Pham-72/airflow-mini-project1/blob/master/reset.sh) to wipe out all the images.
 
