@@ -24,7 +24,7 @@ the [source data](https://github.com/Andy-Pham-72/airflow-mini-project1/tree/mas
 |Adj Close    | DECIMAL                             |
 |Volume | DECIMAL                              |
 
-We'll work with 2 stocks symbols: `AAPL` and `TSLA`. The workflow can be seen in [data_pipeline.py](https://github.com/Andy-Pham-72/airflow-mini-project1/blob/master/mnt/airflow/dags/data_pipeline.py) which is scheduled to run at 6pm on every weekday (Mon - Fri) with the below functions:
+We'll work with 2 stocks symbols: [`AAPL`](https://github.com/Andy-Pham-72/airflow-mini-project1/blob/master/mnt/airflow/tmp/data/2021-12-16/AAPL_data.csv) and [`TSLA`](https://github.com/Andy-Pham-72/airflow-mini-project1/blob/master/mnt/airflow/tmp/data/2021-12-16/TSLA_data.csv). The workflow can be seen in [data_pipeline.py](https://github.com/Andy-Pham-72/airflow-mini-project1/blob/master/mnt/airflow/dags/data_pipeline.py) which is scheduled to run at 6pm on every weekday (Mon - Fri) with the below functions:
 
 - Download the daily price data with one minute interval for the two symbols. Each symbol will have a separate task, Task1 (t1) and Task2 (t2), which run independently and in parallel.
 - Save both datasets into CSV files and load them into a directory. Each symbol will have a separate task, Task3 (t3) and Task4 (t4), which run independently and in parallel.
