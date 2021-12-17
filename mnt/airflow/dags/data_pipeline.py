@@ -10,9 +10,11 @@ from datetime import date, datetime, timedelta
 import get_last_stock_spread
 import download_stock_data
 
+today_var = datetime.today() - timedelta(days=1) # convert from the UTC timezone to EST timezone
+
 default_args = {
             "owner": "airflow",
-            "start_date": datetime.today(),
+            "start_date": today_var,
             "depends_on_past": False,
             "email_on_failure": False,
             "retries": 2, # retry twice
