@@ -32,9 +32,14 @@ We'll work with 2 stocks symbols: `AAPL` and `TSLA`. The workflow can be seen in
 
 ![Screen Shot 2021-12-17 at 12 29 28 AM](https://user-images.githubusercontent.com/70767722/146494411-a9ae5a15-e154-4068-a2fa-032831e0cfd9.png)
 
-All the tasks should be successfully executed like this:
+**All the tasks should be successfully executed like this:**
 
 ![Screen Shot 2021-12-16 at 11 45 15 PM](https://user-images.githubusercontent.com/70767722/146494339-9b02a69b-eb34-4f14-86b6-0f051b5058ea.png)
+
+**We can check all the tasks log in this [folder](https://github.com/Andy-Pham-72/airflow-mini-project1/tree/master/mnt/airflow/logs/marketvol)**
+
+Example of task 4's log file:
+![Screen Shot 2021-12-17 at 12 38 13 AM](https://user-images.githubusercontent.com/70767722/146494795-79e97eb0-cf5e-450b-bd41-f2c0b6bc9eaf.png)
 
 ## Steps to follow to execute all files:
 
