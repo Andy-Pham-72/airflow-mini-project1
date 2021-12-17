@@ -27,7 +27,7 @@ the [source data](https://github.com/Andy-Pham-72/airflow-mini-project1/tree/mas
 We'll work with 2 stocks symbols: `AAPL` and `TSLA`. The workflow can be seen in [data_pipeline.py](https://github.com/Andy-Pham-72/airflow-mini-project1/blob/master/mnt/airflow/dags/data_pipeline.py) which is scheduled to run at 6pm on every weekday (Mon - Fri) with the below functions:
 
 - Download the daily price data with one minute interval for the two symbols. Each symbol will have a separate task, Task1 (t1) and Task2 (t2), which run independently and in parallel.
-- Save both datasets into CSV files and load them into HDFS. Each symbol will have a separate task, Task3 (t3) and Task4 (t4), which run independently and in parallel.
+- Save both datasets into CSV files and load them into a directory. Each symbol will have a separate task, Task3 (t3) and Task4 (t4), which run independently and in parallel.
 - Run your custom query on the downloaded dataset for both symbols, Task5 (t5). Before this step executes, all previous tasks must complete.
 
 ![Screen Shot 2021-12-17 at 12 29 28 AM](https://user-images.githubusercontent.com/70767722/146494411-a9ae5a15-e154-4068-a2fa-032831e0cfd9.png)
