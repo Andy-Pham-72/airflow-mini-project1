@@ -3,10 +3,10 @@ import yfinance as yf
 
 def main(stock_name, **kwargs):
     '''
-    function downloads the stock from Yahoo Finance with the parameter "stock_name"
+    Function downloads the stock from Yahoo Finance with the parameter "stock_name"
     which define the particular stock we want to download.
     for example: "AAPL" for Apple stock or "TSLA" for Tesla stock
-    HeaderList = 'date time', 'open', 'high', 'low', 'close', 'adj close'
+    HeaderList = 'Datetime', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume'
     '''
 
     start_date = date.today() - timedelta(days=1)
