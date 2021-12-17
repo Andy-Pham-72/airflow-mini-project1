@@ -1,8 +1,6 @@
 # Airflow project!
 
-[Screen Shot 2021-12-17 at 12 29 41 AM](https://user-images.githubusercontent.com/70767722/146494188-75849e67-27ab-45ec-862d-42daa1c1c297.png)
-
-
+![Screen Shot 2021-12-17 at 12 29 41 AM](https://user-images.githubusercontent.com/70767722/146494463-25db01b5-0a04-4ef6-a6f5-b20e4278cd47.png)
 
 ## Project Objectives:
 
