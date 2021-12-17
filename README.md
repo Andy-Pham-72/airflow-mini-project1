@@ -38,8 +38,9 @@ We'll work with 2 stocks symbols: [`AAPL`](https://github.com/Andy-Pham-72/airfl
 
 **We can check all the tasks log in this [folder](https://github.com/Andy-Pham-72/airflow-mini-project1/tree/master/mnt/airflow/logs/marketvol)**
 
-Example of task 4's log file:
-![Screen Shot 2021-12-17 at 12 38 13 AM](https://user-images.githubusercontent.com/70767722/146494795-79e97eb0-cf5e-450b-bd41-f2c0b6bc9eaf.png)
+Example of task 5's successful execution log file which gives us a list as an output (checking [get_last_stock_spread.py](https://github.com/Andy-Pham-72/airflow-mini-project1/blob/master/mnt/airflow/dags/get_last_stock_spread.py) for your reference):
+
+![Screen Shot 2021-12-17 at 12 07 35 PM](https://user-images.githubusercontent.com/70767722/146582104-6ec1cd61-9e3d-4401-9b88-27f70e0f424c.png)
 
 ## Steps to follow to execute all files:
 
