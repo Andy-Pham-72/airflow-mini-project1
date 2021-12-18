@@ -7,7 +7,7 @@
 * Incorporate [Docker](https://github.com/Andy-Pham-72/airflow-mini-project1/blob/master/docker-compose.yml) in order to solve the sharing and reproducing challenges (different operating systems, versioning, lack of process).
 * Use Apache Airflow to orchestrate the pipeline.
 * Exercise [DAG creation](https://github.com/Andy-Pham-72/airflow-mini-project1/blob/master/mnt/airflow/dags/data_pipeline.py).
-* Use Various Airflow operators like `BashOperator` and `PythonOpertor`.
+* Use Various Airflow operators like `BashOperator`, `PythonOpertor` and `FileSensor`.
 * Set up the order operation of each task.
 
 In this project, I created a data pipeline to extract online stock market data and deliver future analytical results. Yahoo Finance is used as the data source via the `yfinance` python library.
