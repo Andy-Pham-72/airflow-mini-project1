@@ -5,6 +5,7 @@ YOUR DATA PIPELINE GOES HERE
 from airflow import DAG
 from airflow.operators.python_operator import PythonOperator
 from airflow.operators.bash_operator import BashOperator
+from airflow.contrib.sensors.file_sensor import FileSensor
 from datetime import date, datetime, timedelta
 
 import get_last_stock_spread
@@ -45,6 +46,20 @@ with DAG(dag_id="marketvol",
         op_kwargs={'stock_name': 'TSLA'}
     )
 
+    sensing_task_1 = FileSensor(
+        task_id='sensing_task_1',
+        filepath='''AAPL_data.csv''',
+        fs_conn_id='my_stock_folder',
+        poke_interval=10
+    )
+
+    sensing_task_2 = FileSensor(
+        task_id='sensing_task_2',
+        filepath='''TSLA_data.csv''',
+        fs_conn_id='my_stock_folder',
+        poke_interval=10
+    )
+
     task_3 = BashOperator(
         task_id="task_3",
         bash_command='''mv $AIRFLOW_HOME/AAPL_data.csv $AIRFLOW_HOME/tmp/data/'''+ str(date.today()- timedelta(days=1))
@@ -61,6 +76,8 @@ with DAG(dag_id="marketvol",
     )
 
 task_0>>[task_1,task_2]
-task_1>>task_3
-task_2>>task_4
+task_1>>sensing_task_1
+task_2>>sensing_task_2
+sensing_task_1>>task_3
+sensing_task_2>>task_4
 [task_3,task_4]>>task_5

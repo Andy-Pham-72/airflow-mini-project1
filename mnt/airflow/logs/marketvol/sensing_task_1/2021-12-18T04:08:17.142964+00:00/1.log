@@ -1,0 +1,23 @@
+[2021-12-18 04:10:19,881] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: marketvol.sensing_task_1 2021-12-18T04:08:17.142964+00:00 [queued]>
+[2021-12-18 04:10:19,939] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: marketvol.sensing_task_1 2021-12-18T04:08:17.142964+00:00 [queued]>
+[2021-12-18 04:10:19,940] {taskinstance.py:1042} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-18 04:10:19,943] {taskinstance.py:1043} INFO - Starting attempt 1 of 3
+[2021-12-18 04:10:19,943] {taskinstance.py:1044} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-18 04:10:20,061] {taskinstance.py:1063} INFO - Executing <Task(FileSensor): sensing_task_1> on 2021-12-18T04:08:17.142964+00:00
+[2021-12-18 04:10:20,064] {standard_task_runner.py:52} INFO - Started process 125 to run task
+[2021-12-18 04:10:20,072] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'marketvol', 'sensing_task_1', '2021-12-18T04:08:17.142964+00:00', '--job-id', '30', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/data_pipeline.py', '--cfg-path', '/tmp/tmp27jwbpse', '--error-file', '/tmp/tmpaa6ik7ru']
+[2021-12-18 04:10:20,073] {standard_task_runner.py:77} INFO - Job 30: Subtask sensing_task_1
+[2021-12-18 04:10:20,249] {logging_mixin.py:104} INFO - Running <TaskInstance: marketvol.sensing_task_1 2021-12-18T04:08:17.142964+00:00 [running]> on host e0dcfe4db2d4
+[2021-12-18 04:10:20,418] {taskinstance.py:1255} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=marketvol
+AIRFLOW_CTX_TASK_ID=sensing_task_1
+AIRFLOW_CTX_EXECUTION_DATE=2021-12-18T04:08:17.142964+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-12-18T04:08:17.142964+00:00
+[2021-12-18 04:10:20,449] {filesystem.py:56} INFO - Poking for file AAPL_data.csv
+[2021-12-18 04:10:20,452] {base.py:245} INFO - Success criteria met. Exiting.
+[2021-12-18 04:10:20,494] {taskinstance.py:1159} INFO - Marking task as SUCCESS. dag_id=marketvol, task_id=sensing_task_1, execution_date=20211218T040817, start_date=20211218T041019, end_date=20211218T041020
+[2021-12-18 04:10:20,728] {taskinstance.py:1220} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2021-12-18 04:10:20,767] {local_task_job.py:146} INFO - Task exited with return code 0
