@@ -34,7 +34,7 @@ We'll work with 2 stocks symbols: [`AAPL`](https://github.com/Andy-Pham-72/airfl
 
 **All the tasks should be successfully executed like this:**
 
-![Screen Shot 2021-12-16 at 11 45 15 PM](https://user-images.githubusercontent.com/70767722/146494339-9b02a69b-eb34-4f14-86b6-0f051b5058ea.png)
+![Screen Shot 2021-12-17 at 11 19 49 PM](https://user-images.githubusercontent.com/70767722/146628718-04c3532d-24cc-4466-907d-61a817f889c9.png)
 
 **We can check all the tasks log in this [folder](https://github.com/Andy-Pham-72/airflow-mini-project1/tree/master/mnt/airflow/logs/marketvol).**
 
