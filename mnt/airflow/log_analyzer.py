@@ -51,7 +51,7 @@ class LogAnalyzer:
                 if error_search:
                     self.error_list.append(sentence)
 
-        print( '\nTotal number of errors: {n} \n \
+        print( 'Total number of errors: {n} \
                 \nHere are all the errors:\n{m}'.\
                     format(n=len(self.error_list),\
                            m='\n'.join(["- " + self.error_list[i] for i in range(0,len(self.error_list))])))
