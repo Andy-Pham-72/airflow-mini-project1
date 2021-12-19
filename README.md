@@ -64,7 +64,7 @@ Example of task 5's successful execution log file which gives us a list as an ou
 7, Execute [`./reset.sh`](https://github.com/Andy-Pham-72/airflow-mini-project1/blob/master/reset.sh) to wipe out all the images.
 
 ## Log Analyzer
-[`log_analyzer.py`](https://github.com/Andy-Pham-72/airflow-mini-project1/blob/master/mnt/airflow/log_analyzer.py) is created to monitor all the error messages within the log files by running with below command line:
+[`log_analyzer.py`](https://github.com/Andy-Pham-72/airflow-mini-project1/blob/master/mnt/airflow/log_analyzer.py) is created to monitor all the error messages within the log files by running with below command line as example:
 
 ```bash
 $airflow %  python3 log_analyzer.py /Volumes/Moon/SpringBoard/Airflow_MiniProject1/mnt/airflow/logs
