@@ -63,6 +63,17 @@ Example of task 5's successful execution log file which gives us a list as an ou
 
 7, Execute [`./reset.sh`](https://github.com/Andy-Pham-72/airflow-mini-project1/blob/master/reset.sh) to wipe out all the images.
 
+## Log Analyzer
+[`log_analyzer.py`](https://github.com/Andy-Pham-72/airflow-mini-project1/blob/master/mnt/airflow/log_analyzer.py) is created to monitor all the error messages within the log files by running with below command line:
+
+```bash
+$airflow %  python3 log_analyzer.py /Volumes/Moon/SpringBoard/Airflow_MiniProject1/mnt/airflow/logs
+```
+
+**It should give us this output**
+
+![Screen Shot 2021-12-18 at 7 37 54 PM](https://user-images.githubusercontent.com/70767722/146659388-67ea676b-b46d-46d5-8b45-7851d82e8adf.png)
+
 ## Future works:
 - Integrate CeleryExecutor in the `airflow.cfg` and adjust `docker-compose.yml` configs accordingly.
 - The execution of the airflow service in the docker should be utilized since it still takes quiet longer time to be successfully implemented.
