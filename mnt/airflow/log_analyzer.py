@@ -12,7 +12,7 @@ class LogAnalyzer:
         
     def insert_dir(self, log_dir = sys.argv[1]): # input pramater with Command Line Argument
         '''
-        This function has 'log_dir' parameter as the root directory to recursively list all the files ending with extension ".log"
+        This method has 'log_dir' parameter as the root directory to recursively list all the files ending with extension ".log"
 
         for example: "/Users/airflow/logs"
 
@@ -28,7 +28,7 @@ class LogAnalyzer:
 
     def analyze_file(self):
         """
-        This function take all the log files list from "insert_dir" function and print the cummulative error count and messages 
+        This method take all the log files list from "insert_dir" method and print the cummulative error count and messages 
         from all the log files that are analyzed
 
         For example:
