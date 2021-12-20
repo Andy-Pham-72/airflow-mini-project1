@@ -10,7 +10,7 @@
 * Use Various Airflow operators like `BashOperator`, `PythonOpertor` and `FileSensor`.
 * Set up the order operation of each task.
 
-**NOTE:** there are some redundant tasks within the Airflow dag that could be compressed into fewer tasks. For example, `task_1` and `task_3` can be coded as one task. However, with the purpose of illustating the usage of different Airflow operators and the task order operation, I will keep the redundant tasks as the way they are.
+**NOTE:** there are some redundant tasks within the Airflow dag that could be compressed into fewer tasks. For example, `task_1` and `task_3` can be coded as one task. However, with the purpose of illustrating the usage of different Airflow operators and the task order operation, I will keep the redundant tasks as the way they are.
 
 In this project, I created a data pipeline to extract online stock market data and deliver future analytical results. Yahoo Finance is used as the data source via the `yfinance` python library.
 
